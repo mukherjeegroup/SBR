@@ -1,2 +1,0 @@
-# SBR
-Scalable Bayesian Regression
